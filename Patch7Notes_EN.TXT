@@ -1,0 +1,12 @@
+New Title Updates Available for Grand Theft Auto IV
+
+There are now title updates available for both Grand Theft Auto IV and Episodes from Liberty City.  Read on below for specific notes on what has been fixed in each version of the game.  
+
+GTA IV
+
+v. 1.0.7.0 / 1.0.6.1 (Russian) / 1.0.5.2 (Japanese)
+
+- fix a bug causing tree leaves to look transparent
+- fix a bug that prevented uploading of rendered videos to Social Club when attaching certain music tracks
+- fix for clip capture "OFF" slowdowns occuring when near waters edge
+- expose "detonate" in custom key mapping options menu for Grand Theft Auto IV, Lost and Damned so users can remap "down" arrow key
